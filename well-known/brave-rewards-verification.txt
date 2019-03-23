@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: joseparra.ga
+Token: c3d9c0b548b85fe7ac77dde924165801dd8f6ef66f64e116dbfc20a219f8e80d
